@@ -1,0 +1,2 @@
+As diferenças visiveis entre aceder ao site atravez do browser e aceder atravez do homescreen do telemovel são o facto de que quando eu entro atravez do browser dá para ver a pagina a carregar.
+E quando eu entro atravez do icone criado no homescreen quando eu carrego no icone eu fico á espere que o site carrege no homescreen mas quando o site carrega eu entro no browser automaticamente.
