@@ -1,0 +1,17 @@
+{
+    "name": "euromilhoes",
+    "icons": [
+        {
+            "src": "icons/icon1.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/icon1.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "display": "fullscreen"
+}
