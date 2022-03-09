@@ -12,6 +12,6 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/",
+    "start_url": "/ex3/ex3.html",
     "display": "fullscreen"
 }
