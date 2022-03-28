@@ -1,5 +1,5 @@
 {
-    "name": "Chuck Norris Jokes",
+    "name": "nba",
     "icons": [
         {
             "src": "icons/icon1.png",
@@ -12,6 +12,6 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/ex7/ex7.html",
+    "start_url": "/ex6/ex4.html",
     "display": "fullscreen"
 }
